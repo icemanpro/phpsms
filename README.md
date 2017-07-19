@@ -37,7 +37,8 @@
 | [SendCloud](https://sendcloud.sohu.com/) | √ | × | √ | -- | ￥0.048/条 | [资费标准](https://sendcloud.sohu.com/price.html)
 | [短信宝](http://www.smsbao.com/)          | × | √ | √ | ￥5(50条) | ￥0.040/条(100万条) | [资费标准](http://www.smsbao.com/fee/)
 | [腾讯云](https://www.qcloud.com/product/sms) | √ | √ | √ | -- | ￥0.045/条 | [资费标准](https://www.qcloud.com/product/sms#price)
-| [阿里云](https://www.aliyun.com/product/sms) | √ | × | × | -- | ￥0.045/条 | [资费标准](https://cn.aliyun.com/price/product#/mns/detail)
+| [阿里云](https://www.aliyun.com/product/sms) | √ | × | × | -- | ￥0.045/条 | [资费标准](https://cn.aliyun.com/price/product#/sms/detail)
+| [阿里云(消息服务)](https://www.aliyun.com/product/mns) | √ | × | × | -- | ￥0.045/条 | [资费标准](https://cn.aliyun.com/price/product#/mns/detail)
 
 # 安装
 
